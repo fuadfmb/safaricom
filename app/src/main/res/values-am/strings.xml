@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- real -->
+    <string name="ad_banner">ca-app-pub-1500047410140952/8261361374</string>
+    <string name="ad_interstitial">ca-app-pub-1500047410140952/5574159294</string>
+
+    <!-- test -->
+    <!--    <string name="ad_interstitial">ca-app-pub-3940256099942544/1033173712</string>-->
+    <!--    <string name="ad_banner">ca-app-pub-3940256099942544/6300978111</string>-->
+
+    <string name="app_name">Safaricom Ethiopia</string>
+    <string name="check_balance">ቀሪ\nሂሳብ</string>
+    <string name="recharge_naccount">ሒሳብ\nለመሙላት</string>
+    <string name="transfer_nbalance">ሂሳብ\nለማስተላለፍ</string>
+    <string name="call_me_nback">መልሰው\nይደውሉልኝ</string>
+    <string name="buy_npackage">ጥቅል\nለመግዛት</string>
+    <string name="yescontinue">ቀጥል</string>
+    <string name="phone_number">ስልክ ቁጥር…</string>
+    <string name="request">ጠይቅ</string>
+    <string name="card_number">የካርድ ቁጥር…</string>
+    <string name="thumb_gift">ስጦታ</string>
+    <string name="thumb_self">ለራስ</string>
+    <string name="read_card">ካርድ ለማንበብ</string>
+    <string name="bb_recharge">ሙላ</string>
+    <string name="amount">መጠን</string>
+    <string name="bb_transfer">አስተላልፍ</string>
+    <string name="jv_inv_data">ልክ ያልሆነ ውሂብ</string>
+    <string name="jv_ph_len_error">1. <b>ስልክ ቁጥር</b> 10 አሃዞች መሆን አለበት።</string>
+    <string name="ok">እሺ</string>
+    <string name="grant_perms">እባክዎ ፍቃድ ይስጡ እና እንደገና ይሞክሩ!</string>
+    <string name="jv_ph_amount_error">1. <b>ስልክ ቁጥር</b> 10 አሃዞች መሆን አለበት። <br/>2. <b>መጠን</b> አዎንታዊ ኢንቲጀር መሆን አለበት።</string>
+    <string name="why">ለምን ?</string>
+    <string name="error">ስህተት</string>
+    <string name="digits_only">አሃዞች ብቻ :(</string>
+    <string name="jv_card_len_error">1. <b>የካርድ ቁጥር</b> 14 አሃዞች መሆን አለበት።</string>
+    <string name="jv_ph_card_len_error">1. <b>ስልክ ቁጥር</b> 10 አሃዞች መሆን አለበት።<br/>2. የ<b>ካርድ ቁጥር</b> 14 አሃዞች መሆን አለበት።</string>
+
+</resources>

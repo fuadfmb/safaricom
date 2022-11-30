@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- real -->
+    <string name="ad_banner">ca-app-pub-1500047410140952/8261361374</string>
+    <string name="ad_interstitial">ca-app-pub-1500047410140952/5574159294</string>
+
+    <!-- test -->
+    <!--    <string name="ad_interstitial">ca-app-pub-3940256099942544/1033173712</string>-->
+    <!--    <string name="ad_banner">ca-app-pub-3940256099942544/6300978111</string>-->
+
+    <string name="app_name">Safaricom Ethiopia</string>
+    <string name="check_balance">Check\nBalance</string>
+    <string name="recharge_naccount">Recharge\nAccount</string>
+    <string name="transfer_nbalance">Transfer\nBalance</string>
+    <string name="call_me_nback">Call Me\nBack</string>
+    <string name="buy_npackage">Buy\nPackage</string>
+    <string name="yescontinue">Continue</string>
+    <string name="phone_number">Phone Number…</string>
+    <string name="request">Request</string>
+    <string name="card_number">Card Number…</string>
+    <string name="thumb_gift">gift</string>
+    <string name="thumb_self">self</string>
+    <string name="read_card">Read Card</string>
+    <string name="bb_recharge">Recharge</string>
+    <string name="amount">Amount</string>
+    <string name="bb_transfer">Transfer</string>
+    <string name="jv_inv_data">Invalid Data</string>
+    <string name="jv_ph_len_error">1. <b>Phone number</b> should have to be 10 digits.</string>
+    <string name="ok">OK</string>
+    <string name="grant_perms">Please grant permission and try again !</string>
+    <string name="jv_ph_amount_error">1. <b>Phone number</b> should have to be 10 digits <br/>2. <b>Amount</b> should have to be a positive integer</string>
+    <string name="why">Why ?</string>
+    <string name="error">Error</string>
+    <string name="digits_only">Digits only please :(</string>
+    <string name="jv_card_len_error">1. <b>Card number</b> should have to be 14 digits.</string>
+    <string name="jv_ph_card_len_error">1. <b>Phone number</b> should have to be 10 digits.<br/>2. <b>Card number</b> should have to be 14 digits.</string>
+
+
+</resources>

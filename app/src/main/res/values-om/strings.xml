@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- real -->
+    <string name="ad_banner">ca-app-pub-1500047410140952/8261361374</string>
+    <string name="ad_interstitial">ca-app-pub-1500047410140952/5574159294</string>
+
+    <!-- test -->
+    <!--    <string name="ad_interstitial">ca-app-pub-3940256099942544/1033173712</string>-->
+    <!--    <string name="ad_banner">ca-app-pub-3940256099942544/6300978111</string>-->
+
+    <string name="app_name">Safaricom Ethiopia</string>
+    <string name="check_balance">Haftee\nHerregaa</string>
+    <string name="recharge_naccount">Maallaqa\nGuutuuf</string>
+    <string name="transfer_nbalance">Herrega\nDabarsuuf</string>
+    <string name="call_me_nback">Deebisii\nNaaf Bilbili</string>
+    <string name="buy_npackage">Kuufama\nBituuf</string>
+    <string name="yescontinue">Itti fufi</string>
+    <string name="phone_number">Lakk bilbilaa…</string>
+    <string name="request">Gaafadhu</string>
+    <string name="card_number">Lakk kaardii…</string>
+    <string name="thumb_gift">kennaa</string>
+    <string name="thumb_self">ufiif</string>
+    <string name="read_card">Kaardii dubbisi</string>
+    <string name="bb_recharge">Guuti</string>
+    <string name="amount">Hamma</string>
+    <string name="bb_transfer">Ergi</string>
+    <string name="jv_inv_data">Daataan dogongora</string>
+    <string name="jv_ph_len_error">1. <b>Laakkofsi bilbilaa</b> dijitii 10 ta\'uu qaba.</string>
+    <string name="ok">Hayyee</string>
+    <string name="grant_perms">Maaloo hayyama kennuun irra deebiin yaali !</string>
+    <string name="jv_ph_amount_error">1. <b>Laakkofsi bilbilaa</b> dijiitii 10 ta\'uu qaba. <br/>2. <b>Hammi</b> laakkofsa 0 olii ta\'uu qaba.</string>
+    <string name="why">Maaliif ?</string>
+    <string name="error">Dogongora</string>
+    <string name="digits_only">Laakkofsa qofa :(</string>
+    <string name="jv_card_len_error">1. <b>Laakkofsi kaardii</b> dijiitii 14 ta\'uu qaba.</string>
+    <string name="jv_ph_card_len_error">1. <b>Laakkofsi bilbilaa</b> dijiitii 10 ta\'uu qaba.<br/>2. <b>Laakkofsi kaardii</b> dijitii 14 ta\'uu qaba.</string>
+
+</resources>

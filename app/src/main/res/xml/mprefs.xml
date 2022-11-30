@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="Dark Theme">
+
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="dark_theme_enabled"
+            android:summary="Enable or disable dark mode"
+            android:title="Dark Mode" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Language">
+
+        <ListPreference
+            android:defaultValue="English"
+            android:entries="@array/languages"
+            android:entryValues="@array/languages"
+            android:key="language"
+            android:summary="Choose your language"
+            android:title="Language" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

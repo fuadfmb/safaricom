@@ -1,0 +1,48 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="MainTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">#31A05F</item>
+        <item name="colorPrimaryDark">#31A05F</item>
+        <item name="colorAccent">#FF4081</item>
+        <item name="android:statusBarColor" tools:targetApi="l">#185030</item>
+        <item name="android:navigationBarColor">#185030</item>
+    </style>
+
+    <style name="DarkTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">#455a64</item>
+        <item name="colorPrimaryDark">#455a64</item>
+        <item name="colorAccent">#FF4081</item>
+        <item name="android:statusBarColor" tools:targetApi="l">#232D32</item>
+        <item name="android:navigationBarColor">#232D32</item>
+    </style>
+
+    <style name="MainTheme.FullScreenDialog" parent="Theme.MaterialComponents.Light.Dialog">
+        <item name="colorPrimary">#31A05F</item>
+        <item name="colorPrimaryDark">#31A05F</item>
+        <item name="colorAccent">#185030</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="actionMenuTextColor">@color/colorAccent</item>
+        <item name="android:statusBarColor" tools:targetApi="l">#31A05F</item>
+        <item name="android:navigationBarColor">#185030</item>
+    </style>
+
+    <style name="MainTheme.Slide">
+        <item name="android:windowEnterAnimation">@anim/slide_up</item>
+        <item name="android:windowExitAnimation">@anim/slide_down</item>
+    </style>
+
+    <style name="AboutTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#333333</item>
+        <item name="colorPrimaryDark">#FF333333</item>
+        <item name="colorPrimaryVariant">#FF333333</item>
+        <item name="colorOnPrimary">#FF333333</item>
+        <item name="colorAccent">#ffffff</item>
+        <item name="android:statusBarColor" tools:targetApi="l">#FF333333</item>
+        <item name="android:navigationBarColor">#FF333333</item>
+    </style>
+
+</resources>
+
+
